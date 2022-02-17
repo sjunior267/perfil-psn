@@ -1,4 +1,6 @@
-<h1> Perfil PSN</h1>
+<h1> Perfil PSN </h1>
+
+![Captura de tela 2022-02-17 123624](https://user-images.githubusercontent.com/47577905/154515775-10b01c07-4780-4f86-a719-370828c172c0.png)
 
 > Status: Developing ⚠️
 
