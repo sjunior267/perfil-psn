@@ -17,3 +17,4 @@
 * CSS 3
 
 ## Link do github pages: https://sjunior267.github.io/perfil-psn/
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
