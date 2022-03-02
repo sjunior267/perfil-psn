@@ -1,4 +1,9 @@
 <h1> Perfil PSN </h1>
+<br>
+<div display:flex;>
+<img src="https://img.shields.io/github/license/sjunior267/Perfil-psn">
+<img src="https://img.shields.io/badge/Perfil-PSN-blue">
+</div> 
 
 ![Captura de tela 2022-02-17 123624](https://user-images.githubusercontent.com/47577905/154515775-10b01c07-4780-4f86-a719-370828c172c0.png)
 
